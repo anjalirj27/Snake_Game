@@ -16,7 +16,7 @@ A classic Snake game built using Python's Turtle graphics library. Control the s
 
 ## 🧰 Technologies Used
 
-- Python 3.x  
+- Python 3.11  
 - Turtle (built-in graphics module)  
 - No external dependencies required
 
